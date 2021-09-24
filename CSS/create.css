@@ -2152,3 +2152,15 @@ outline: none;
     font-size: 16px;
     margin: 0px 10px 0px 10px;
 }
+
+@media screen and (max-width: 640px) {
+    .center__btn button {
+        margin: 10px 0px 0px 0px;
+    }
+    .ajs button {
+        margin: 10px 0px 0px 0px;
+    }
+    .ajs1 button {
+        margin: 10px 0px 0px 0px;
+    }
+}
